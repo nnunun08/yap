@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="79" viewBox="0 0 77 79">
+    <g data-name="사각형 355" transform="translate(18 9)" style="stroke-width:3px;stroke:#ff862e;fill:#fff">
+        <rect width="40" height="61" rx="7" style="stroke:none"/>
+        <rect x="1.5" y="1.5" width="37" height="58" rx="5.5" style="fill:none"/>
+    </g>
+    <g data-name="그룹 1258">
+        <g data-name="그룹 999">
+            <g data-name="타원 67" transform="translate(26.001 24)" style="stroke-width:1.5px;fill:#ff862e;stroke:#ff862e">
+                <circle cx="4.5" cy="4.5" r="4.5" style="stroke:none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" style="fill:none"/>
+            </g>
+        </g>
+        <g data-name="그룹 1000">
+            <path data-name="선 20" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h11.932" transform="translate(37.838 26.164)"/>
+            <path data-name="선 21" transform="translate(37.838 28.333)" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h7.593"/>
+            <path data-name="선 22" transform="translate(37.838 30.503)" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h9.762"/>
+        </g>
+    </g>
+    <g data-name="그룹 1259">
+        <g data-name="그룹 999">
+            <g data-name="타원 67" transform="translate(26 38)" style="fill:none;stroke-width:1.5px;stroke:#ff862e">
+                <circle cx="4.5" cy="4.5" r="4.5" style="stroke:none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" style="fill:none"/>
+            </g>
+        </g>
+        <g data-name="그룹 1000">
+            <path data-name="선 20" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h11.932" transform="translate(37.838 40.265)"/>
+            <path data-name="선 21" transform="translate(37.838 42.434)" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h7.593"/>
+            <path data-name="선 22" transform="translate(37.838 44.604)" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h9.762"/>
+        </g>
+    </g>
+    <g data-name="그룹 1260">
+        <g data-name="그룹 999">
+            <g data-name="타원 67" transform="translate(26.001 52)" style="fill:none;stroke-width:1.5px;stroke:#ff862e">
+                <circle cx="4.5" cy="4.5" r="4.5" style="stroke:none"/>
+                <circle cx="4.5" cy="4.5" r="3.75" style="fill:none"/>
+            </g>
+        </g>
+        <g data-name="그룹 1000">
+            <path data-name="선 20" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h11.932" transform="translate(37.838 54.367)"/>
+            <path data-name="선 21" transform="translate(37.838 56.536)" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h7.593"/>
+            <path data-name="선 22" transform="translate(37.838 58.706)" style="stroke-linecap:round;fill:none;stroke-width:1.5px;stroke:#ff862e" d="M0 0h9.762"/>
+        </g>
+    </g>
+    <path data-name="패스 1674" d="m-6858 430.75 1.22 1.237 1.851-2.4" transform="translate(6886.9 -402.372)" style="stroke:#fff;stroke-linejoin:round;stroke-linecap:round;fill:none"/>
+</svg>

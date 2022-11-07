@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="77" viewBox="0 0 78 77">
+    <g data-name="사각형 603" style="stroke:#707070;opacity:.001;fill:#fff">
+        <path style="stroke:none" d="M0 0h78v77H0z"/>
+        <path style="fill:none" d="M.5.5h77v76H.5z"/>
+    </g>
+    <g data-name="사각형 261">
+        <path data-name="패스 1669" d="M30.082 64.071h26.835a4.473 4.473 0 0 1 4.473 4.473 4.473 4.473 0 0 1-4.473 4.473H30.082a4.473 4.473 0 0 1-4.473-4.473 4.473 4.473 0 0 1 4.473-4.473z" transform="translate(-8.612 -11.44)" style="stroke:#ff862e;stroke-width:3px;fill:none"/>
+    </g>
+    <g data-name="사각형 262">
+        <path data-name="패스 1670" d="M30.082 52.5h26.835a4.473 4.473 0 0 1 4.473 4.473 4.473 4.473 0 0 1-4.473 4.473H30.082a4.473 4.473 0 0 1-4.473-4.473 4.473 4.473 0 0 1 4.473-4.473z" transform="translate(-8.612 -8.964)" style="stroke:#ff862e;stroke-width:3px;fill:none"/>
+    </g>
+    <g data-name="사각형 263">
+        <path data-name="패스 1671" d="M30.578 39.424h25.843a4.97 4.97 0 0 1 4.969 4.969 4.97 4.97 0 0 1-4.969 4.97H30.578a4.97 4.97 0 0 1-4.969-4.97 4.97 4.97 0 0 1 4.969-4.969z" transform="translate(-8.612 -6.164)" style="stroke:#ff862e;stroke-width:3px;fill:none"/>
+    </g>
+    <g data-name="사각형 264">
+        <path data-name="패스 1672" d="M17.932 26.577h27.83a4.97 4.97 0 0 1 4.969 4.97 4.97 4.97 0 0 1-4.969 4.969h-27.83a4.97 4.97 0 0 1-4.969-4.969 4.97 4.97 0 0 1 4.969-4.97z" transform="translate(-5.905 -3.414)" style="stroke:#ff862e;stroke-width:3px;fill:none"/>
+    </g>
+    <g data-name="사각형 265">
+        <path data-name="패스 1673" d="M37.67 14.927h26.835a4.473 4.473 0 0 1 4.473 4.473 4.473 4.473 0 0 1-4.473 4.473H37.67A4.473 4.473 0 0 1 33.2 19.4a4.473 4.473 0 0 1 4.47-4.473z" transform="translate(-10.236 -.92)" style="stroke:#ff862e;stroke-width:3px;fill:none"/>
+    </g>
+    <g data-name="타원 53" transform="translate(39.424 36.262)">
+        <ellipse data-name="타원 78" cx="15.342" cy="14.877" rx="15.342" ry="14.877" style="fill:#fff"/>
+        <ellipse data-name="타원 79" cx="14.909" cy="14.412" rx="14.909" ry="14.412" transform="translate(.433 .465)" style="stroke:#ff862e;stroke-width:3px;fill:none"/>
+    </g>
+    <g data-name="그룹 992">
+        <g style="isolation:isolate">
+            <text data-name="W" transform="translate(48.096 55.523)" style="font-size:12px;font-family:S-CoreDream-7ExtraBold,S-Core Dream;font-weight:800;letter-spacing:-.025em;fill:#ff862e;isolation:isolate"><tspan x="0" y="0">W</tspan></text>
+        </g>
+        <path data-name="패스 1333" d="M64.437 61.126h14.839v1.645H64.437z" transform="translate(-16.924 -10.809)" style="fill:#ff862e"/>
+    </g>
+</svg>
